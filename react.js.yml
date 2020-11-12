@@ -1,0 +1,4 @@
+- name: React Deploy to S3
+  # You may pin to the exact commit or the version.
+  # uses: jeanlescure/react-deploy-to-s3-action@47fec55684471e621391f69a58e90065a2b55b52
+  uses: jeanlescure/react-deploy-to-s3-action@v1.0.4
